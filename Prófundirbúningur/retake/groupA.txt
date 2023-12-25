@@ -1,0 +1,6 @@
+Qatar;Ecuador;0;2
+Senegal;Netherlands;0;2
+Netherlands;Ecuador;1;1
+Qatar;Senegal;1;3
+Ecuador;Senegal;1;2
+Netherlands;Qatar;2;0
